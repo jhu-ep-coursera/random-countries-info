@@ -27,7 +27,7 @@ becomes
 
 ## Any gotchas?
 
-Take a close look at the `Gemfile`. For example, you need to specify `gem 'pg', '~> 0.20'` since for whatever reason the typical `gem 'pg'` (the latest) is not compatible with Rails, at least not version 4.2.8.
+Take a close look at the `Gemfile`. For example, you need to specify `gem 'pg', '~> 0.20'` since for whatever reason the typical `gem 'pg'` (the latest) is not compatible with Rails, at least not version 4.2.8. (See the [following](https://stackoverflow.com/a/48265234/908842) for more info)
 
 
 
