@@ -10,7 +10,5 @@ class CountriesController < ApplicationController
 
     @countries_to_display = all_countries.sample(@limit)
     @countries_to_display.sort! { |a, b|  a["name"] <=> b["name"] }
-
   end
-
 end
