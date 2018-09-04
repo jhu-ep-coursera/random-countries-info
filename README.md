@@ -17,7 +17,7 @@ Sure. <https://random-countries-info.herokuapp.com/> Every time you refresh the 
 
 ## How was this app created?
 
-Basically, this is very similar to how the Coursera Courses Listing app was created in [Lecture 9]((https://github.com/jhu-ep-coursera/fullstack-course1-module3/blob/master/Slides/Lecture9.pdf)) and [Lecture 10](https://github.com/jhu-ep-coursera/fullstack-course1-module3/blob/master/Slides/Lecture10.pdf) of [Module 3](https://github.com/jhu-ep-coursera/fullstack-course1-module3). And, of course, you would substitute the word `countries` instead of the word `courses`. So, for example,
+Basically, this is very similar to how the Coursera Courses Listing app was created in [Lecture 9](https://github.com/jhu-ep-coursera/fullstack-course1-module3/blob/master/Slides/Lecture9.pdf) and [Lecture 10](https://github.com/jhu-ep-coursera/fullstack-course1-module3/blob/master/Slides/Lecture10.pdf) of [Module 3](https://github.com/jhu-ep-coursera/fullstack-course1-module3). And, of course, you would substitute the word `countries` instead of the word `courses`. So, for example,
 
 `rails g controller courses index`
 
